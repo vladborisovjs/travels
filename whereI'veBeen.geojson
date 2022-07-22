@@ -62,17 +62,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.130859375,
-          55.89995614406812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           49.123992919921875,
           55.780434669338014
         ]
